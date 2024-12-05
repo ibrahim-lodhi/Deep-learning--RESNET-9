@@ -1,3 +1,5 @@
+# RESNET-9 
+
 **Objective**
 
 The project involves classifying CIFAR-10 images using ResNet-9, with techniques like data augmentation, batch normalization, and residual blocks implemented using PyTorch.
